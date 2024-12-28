@@ -1,0 +1,6 @@
+# 新版量化机器人源码 机器人源码 高级版本支持多币种混合交易 自动机器人
+
+介绍：<br>购买前需要了解的一些事<br>一切以演示站为准，拍下默认认可和演示站为同一品。功能方面自己研究。<br>1、支持定制开发，完美运行，看演示站，<br>2、请认真测试演示源码是否为自己需要的，购买完全与演示一至。<br>3、源码仅供测试学习，不可用于非法途径!<br>4、所售源码仅支持测试，与后期客户实际运营产生的一切法律纠纷无关！<br>注意：以上价格仅为源码价格，如果需要部署咨询客服！<br>不需要搭建的，直接拍，源码跟演示一样，部署文档齐全，迅速发货！<br>演示：<br>前台地址：<br>http://example.com/<br>账号：+58 4243679378<br>密码：123456<br>后台地址：<br>example.com/admin<br>账号 ：admin<br>密码 ：123456<br>安全密码：plus500ai<br>说明：<br>1、此源码为量化机器人也称呼为自动化交易，人总会有情绪的波动，为避免心理因素干扰实现套利，打造成熟智能交易系统。<br>2、搬砖机器人在云端服务器7×24小时自动化操作，仅需设置好交易策略，机器人将按照策略进行自动交易。<br>3、机器人程序兼容huobi、、OKex、等主流交易所平台API。<br>4、量化机器人通过区块链加密数字资产交易平台创建APIKEY，全程自动化对接加密，资金自主管控安全可靠，24小时不间断实时监控数据，自定义设置交易策略，无须长时间盯盘。<br>5、量化机器人利用人工智能技术，用数学模型去实现投资策略的过程，因为它可以用程序化交易代替人为的主观判断，科学设置止盈止损点。<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/OJAQU" style="color: red;">https://mega-file.org/OJAQU</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
